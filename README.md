@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**tanmoyheritage23/tanmoyheritage23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm Tanmoy, great to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-Here are some ideas to get you started:
+👨‍💻 Full Stack Developer | Passionate about crafting clean, efficient, and scalable solutions. 💡 Constantly exploring new technologies to stay ahead of the curve. 🚀 Experienced in both front-end and back-end development. 🌐 Building seamless user experiences while ensuring robust server-side functionality. Let's collaborate and innovate together! 🌟 #CodeIsPoetry #TechEnthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Languages</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,cpp,php)](https://skillicons.dev)
+
+<h2>Frameworks</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=express,react,nextjs,tailwindcss,angular)](https://skillicons.dev)
+
+
+<h2>Databases</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongo)](https://skillicons.dev)
+  
+
+<h2>Tools</h2>
+ 
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,docker,postman,linux)](https://skillicons.dev)
+
+  
